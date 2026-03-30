@@ -1,0 +1,3 @@
+C:/Kreeece/Projects/GLbasic/build/CMakeFiles/GLbasic.dir
+C:/Kreeece/Projects/GLbasic/build/CMakeFiles/edit_cache.dir
+C:/Kreeece/Projects/GLbasic/build/CMakeFiles/rebuild_cache.dir
