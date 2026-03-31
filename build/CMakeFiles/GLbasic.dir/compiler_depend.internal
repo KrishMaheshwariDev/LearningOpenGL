@@ -302,6 +302,8 @@ CMakeFiles/GLbasic.dir/src/main.cpp.obj
  C:/Kreeece/Projects/GLbasic/libs/glad/include/glad/glad.h
  C:/Kreeece/Projects/GLbasic/libs/glfw/include/GLFW/glfw3.h
  C:/Kreeece/Projects/GLbasic/libs/glfw/include/KHR/khrplatform.h
+ C:/Kreeece/Projects/GLbasic/src/shaders/fragment.frag
+ C:/Kreeece/Projects/GLbasic/src/shaders/vertex.vert
  C:/msys64/ucrt64/include/_mingw.h
  C:/msys64/ucrt64/include/_mingw_mac.h
  C:/msys64/ucrt64/include/_mingw_off_t.h

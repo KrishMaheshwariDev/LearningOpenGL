@@ -151,4 +151,6 @@ CMakeFiles/GLbasic.dir/src/main.cpp.obj: \
  C:/Kreeece/Projects/GLbasic/libs/glfw/include/KHR/khrplatform.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
  C:/msys64/ucrt64/include/stdint.h \
- C:/Kreeece/Projects/GLbasic/libs/glfw/include/GLFW/glfw3.h
+ C:/Kreeece/Projects/GLbasic/libs/glfw/include/GLFW/glfw3.h \
+ C:/Kreeece/Projects/GLbasic/src/shaders/vertex.vert \
+ C:/Kreeece/Projects/GLbasic/src/shaders/fragment.frag

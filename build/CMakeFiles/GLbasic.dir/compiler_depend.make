@@ -300,6 +300,8 @@ CMakeFiles/GLbasic.dir/src/main.cpp.obj: C:/Kreeece/Projects/GLbasic/src/main.cp
   C:/Kreeece/Projects/GLbasic/libs/glad/include/glad/glad.h \
   C:/Kreeece/Projects/GLbasic/libs/glfw/include/GLFW/glfw3.h \
   C:/Kreeece/Projects/GLbasic/libs/glfw/include/KHR/khrplatform.h \
+  C:/Kreeece/Projects/GLbasic/src/shaders/fragment.frag \
+  C:/Kreeece/Projects/GLbasic/src/shaders/vertex.vert \
   C:/msys64/ucrt64/include/_mingw.h \
   C:/msys64/ucrt64/include/_mingw_mac.h \
   C:/msys64/ucrt64/include/_mingw_off_t.h \
@@ -1161,6 +1163,12 @@ C:/Kreeece/Projects/GLbasic/src/main.cpp:
 
 C:/Kreeece/Projects/GLbasic/libs/glfw/include/GLFW/glfw3.h:
 
+C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_classes.h:
+
+C:/Kreeece/Projects/GLbasic/src/shaders/fragment.frag:
+
+C:/Kreeece/Projects/GLbasic/src/shaders/vertex.vert:
+
 C:/msys64/ucrt64/include/_mingw_stat64.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/allocator.h:
@@ -1188,8 +1196,6 @@ C:/msys64/ucrt64/include/c++/15.2.0/bits/functional_hash.h:
 C:/msys64/ucrt64/include/c++/15.2.0/bits/ios_base.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/iterator_concepts.h:
-
-C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_classes.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_classes.tcc:
 
