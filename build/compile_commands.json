@@ -10,5 +10,11 @@
   "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/GLbasic.dir/includes_C.rsp -g -o CMakeFiles\\GLbasic.dir\\libs\\glad\\src\\glad.c.obj -c C:\\Kreeece\\Projects\\GLbasic\\libs\\glad\\src\\glad.c",
   "file": "C:/Kreeece/Projects/GLbasic/libs/glad/src/glad.c",
   "output": "CMakeFiles/GLbasic.dir/libs/glad/src/glad.c.obj"
+},
+{
+  "directory": "C:/Kreeece/Projects/GLbasic/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/GLbasic.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLbasic.dir\\src\\graphic\\Shader.cpp.obj -c C:\\Kreeece\\Projects\\GLbasic\\src\\graphic\\Shader.cpp",
+  "file": "C:/Kreeece/Projects/GLbasic/src/graphic/Shader.cpp",
+  "output": "CMakeFiles/GLbasic.dir/src/graphic/Shader.cpp.obj"
 }
 ]

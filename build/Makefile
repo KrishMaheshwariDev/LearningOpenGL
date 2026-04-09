@@ -152,6 +152,30 @@ libs/glad/src/glad.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/libs/glad/src/glad.c.s
 .PHONY : libs/glad/src/glad.c.s
 
+src/graphic/Shader.obj: src/graphic/Shader.cpp.obj
+.PHONY : src/graphic/Shader.obj
+
+# target to build an object file
+src/graphic/Shader.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/Shader.cpp.obj
+.PHONY : src/graphic/Shader.cpp.obj
+
+src/graphic/Shader.i: src/graphic/Shader.cpp.i
+.PHONY : src/graphic/Shader.i
+
+# target to preprocess a source file
+src/graphic/Shader.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/Shader.cpp.i
+.PHONY : src/graphic/Shader.cpp.i
+
+src/graphic/Shader.s: src/graphic/Shader.cpp.s
+.PHONY : src/graphic/Shader.s
+
+# target to generate assembly for a file
+src/graphic/Shader.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/Shader.cpp.s
+.PHONY : src/graphic/Shader.cpp.s
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -188,6 +212,9 @@ help:
 	@echo ... libs/glad/src/glad.obj
 	@echo ... libs/glad/src/glad.i
 	@echo ... libs/glad/src/glad.s
+	@echo ... src/graphic/Shader.obj
+	@echo ... src/graphic/Shader.i
+	@echo ... src/graphic/Shader.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

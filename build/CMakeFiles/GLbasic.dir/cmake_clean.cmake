@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/GLbasic.dir/libs/glad/src/glad.c.obj"
   "CMakeFiles/GLbasic.dir/libs/glad/src/glad.c.obj.d"
+  "CMakeFiles/GLbasic.dir/src/graphic/Shader.cpp.obj"
+  "CMakeFiles/GLbasic.dir/src/graphic/Shader.cpp.obj.d"
   "CMakeFiles/GLbasic.dir/src/main.cpp.obj"
   "CMakeFiles/GLbasic.dir/src/main.cpp.obj.d"
   "GLbasic.exe"

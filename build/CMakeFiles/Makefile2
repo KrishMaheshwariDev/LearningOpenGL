@@ -84,12 +84,12 @@ clean: CMakeFiles/GLbasic.dir/clean
 CMakeFiles/GLbasic.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Kreeece\Projects\GLbasic\build\CMakeFiles --progress-num=1,2,3 "Built target GLbasic"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Kreeece\Projects\GLbasic\build\CMakeFiles --progress-num=1,2,3,4 "Built target GLbasic"
 .PHONY : CMakeFiles/GLbasic.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/GLbasic.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Kreeece\Projects\GLbasic\build\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Kreeece\Projects\GLbasic\build\CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/GLbasic.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Kreeece\Projects\GLbasic\build\CMakeFiles 0
 .PHONY : CMakeFiles/GLbasic.dir/rule
@@ -101,7 +101,7 @@ GLbasic: CMakeFiles/GLbasic.dir/rule
 # codegen rule for target.
 CMakeFiles/GLbasic.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Kreeece\Projects\GLbasic\build\CMakeFiles --progress-num=1,2,3 "Finished codegen for target GLbasic"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Kreeece\Projects\GLbasic\build\CMakeFiles --progress-num=1,2,3,4 "Finished codegen for target GLbasic"
 .PHONY : CMakeFiles/GLbasic.dir/codegen
 
 # clean rule for target.
