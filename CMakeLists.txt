@@ -15,6 +15,7 @@ add_executable(GLbasic
 target_include_directories(GLbasic PRIVATE
     libs/glad/include
     libs/glfw/include
+    libs/glm
 )
 
 # ---- Link directories ----
