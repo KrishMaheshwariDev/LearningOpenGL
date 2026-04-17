@@ -116,11 +116,91 @@ CMakeFiles/GLbasic.dir/src/graphic/Shader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/GLbasic.dir/src/graphic/Shader.cpp.s"
 	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Kreeece\Projects\GLbasic\src\graphic\Shader.cpp -o CMakeFiles\GLbasic.dir\src\graphic\Shader.cpp.s
 
+CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.obj: CMakeFiles/GLbasic.dir/flags.make
+CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.obj: CMakeFiles/GLbasic.dir/includes_CXX.rsp
+CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.obj: C:/Kreeece/Projects/GLbasic/src/graphic/Buffer.cpp
+CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.obj: CMakeFiles/GLbasic.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Kreeece\Projects\GLbasic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.obj -MF CMakeFiles\GLbasic.dir\src\graphic\Buffer.cpp.obj.d -o CMakeFiles\GLbasic.dir\src\graphic\Buffer.cpp.obj -c C:\Kreeece\Projects\GLbasic\src\graphic\Buffer.cpp
+
+CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Kreeece\Projects\GLbasic\src\graphic\Buffer.cpp > CMakeFiles\GLbasic.dir\src\graphic\Buffer.cpp.i
+
+CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Kreeece\Projects\GLbasic\src\graphic\Buffer.cpp -o CMakeFiles\GLbasic.dir\src\graphic\Buffer.cpp.s
+
+CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.obj: CMakeFiles/GLbasic.dir/flags.make
+CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.obj: CMakeFiles/GLbasic.dir/includes_CXX.rsp
+CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.obj: C:/Kreeece/Projects/GLbasic/src/graphic/Mesh.cpp
+CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.obj: CMakeFiles/GLbasic.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Kreeece\Projects\GLbasic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.obj -MF CMakeFiles\GLbasic.dir\src\graphic\Mesh.cpp.obj.d -o CMakeFiles\GLbasic.dir\src\graphic\Mesh.cpp.obj -c C:\Kreeece\Projects\GLbasic\src\graphic\Mesh.cpp
+
+CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Kreeece\Projects\GLbasic\src\graphic\Mesh.cpp > CMakeFiles\GLbasic.dir\src\graphic\Mesh.cpp.i
+
+CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Kreeece\Projects\GLbasic\src\graphic\Mesh.cpp -o CMakeFiles\GLbasic.dir\src\graphic\Mesh.cpp.s
+
+CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.obj: CMakeFiles/GLbasic.dir/flags.make
+CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.obj: CMakeFiles/GLbasic.dir/includes_CXX.rsp
+CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.obj: C:/Kreeece/Projects/GLbasic/src/graphic/Renderer.cpp
+CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.obj: CMakeFiles/GLbasic.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Kreeece\Projects\GLbasic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.obj -MF CMakeFiles\GLbasic.dir\src\graphic\Renderer.cpp.obj.d -o CMakeFiles\GLbasic.dir\src\graphic\Renderer.cpp.obj -c C:\Kreeece\Projects\GLbasic\src\graphic\Renderer.cpp
+
+CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Kreeece\Projects\GLbasic\src\graphic\Renderer.cpp > CMakeFiles\GLbasic.dir\src\graphic\Renderer.cpp.i
+
+CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Kreeece\Projects\GLbasic\src\graphic\Renderer.cpp -o CMakeFiles\GLbasic.dir\src\graphic\Renderer.cpp.s
+
+CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.obj: CMakeFiles/GLbasic.dir/flags.make
+CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.obj: CMakeFiles/GLbasic.dir/includes_CXX.rsp
+CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.obj: C:/Kreeece/Projects/GLbasic/src/graphic/VertexArray.cpp
+CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.obj: CMakeFiles/GLbasic.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Kreeece\Projects\GLbasic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.obj -MF CMakeFiles\GLbasic.dir\src\graphic\VertexArray.cpp.obj.d -o CMakeFiles\GLbasic.dir\src\graphic\VertexArray.cpp.obj -c C:\Kreeece\Projects\GLbasic\src\graphic\VertexArray.cpp
+
+CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Kreeece\Projects\GLbasic\src\graphic\VertexArray.cpp > CMakeFiles\GLbasic.dir\src\graphic\VertexArray.cpp.i
+
+CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Kreeece\Projects\GLbasic\src\graphic\VertexArray.cpp -o CMakeFiles\GLbasic.dir\src\graphic\VertexArray.cpp.s
+
+CMakeFiles/GLbasic.dir/src/window/Window.cpp.obj: CMakeFiles/GLbasic.dir/flags.make
+CMakeFiles/GLbasic.dir/src/window/Window.cpp.obj: CMakeFiles/GLbasic.dir/includes_CXX.rsp
+CMakeFiles/GLbasic.dir/src/window/Window.cpp.obj: C:/Kreeece/Projects/GLbasic/src/window/Window.cpp
+CMakeFiles/GLbasic.dir/src/window/Window.cpp.obj: CMakeFiles/GLbasic.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Kreeece\Projects\GLbasic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/GLbasic.dir/src/window/Window.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GLbasic.dir/src/window/Window.cpp.obj -MF CMakeFiles\GLbasic.dir\src\window\Window.cpp.obj.d -o CMakeFiles\GLbasic.dir\src\window\Window.cpp.obj -c C:\Kreeece\Projects\GLbasic\src\window\Window.cpp
+
+CMakeFiles/GLbasic.dir/src/window/Window.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/GLbasic.dir/src/window/Window.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Kreeece\Projects\GLbasic\src\window\Window.cpp > CMakeFiles\GLbasic.dir\src\window\Window.cpp.i
+
+CMakeFiles/GLbasic.dir/src/window/Window.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/GLbasic.dir/src/window/Window.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Kreeece\Projects\GLbasic\src\window\Window.cpp -o CMakeFiles\GLbasic.dir\src\window\Window.cpp.s
+
 # Object files for target GLbasic
 GLbasic_OBJECTS = \
 "CMakeFiles/GLbasic.dir/src/main.cpp.obj" \
 "CMakeFiles/GLbasic.dir/libs/glad/src/glad.c.obj" \
-"CMakeFiles/GLbasic.dir/src/graphic/Shader.cpp.obj"
+"CMakeFiles/GLbasic.dir/src/graphic/Shader.cpp.obj" \
+"CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.obj" \
+"CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.obj" \
+"CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.obj" \
+"CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.obj" \
+"CMakeFiles/GLbasic.dir/src/window/Window.cpp.obj"
 
 # External object files for target GLbasic
 GLbasic_EXTERNAL_OBJECTS =
@@ -128,12 +208,17 @@ GLbasic_EXTERNAL_OBJECTS =
 GLbasic.exe: CMakeFiles/GLbasic.dir/src/main.cpp.obj
 GLbasic.exe: CMakeFiles/GLbasic.dir/libs/glad/src/glad.c.obj
 GLbasic.exe: CMakeFiles/GLbasic.dir/src/graphic/Shader.cpp.obj
+GLbasic.exe: CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.obj
+GLbasic.exe: CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.obj
+GLbasic.exe: CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.obj
+GLbasic.exe: CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.obj
+GLbasic.exe: CMakeFiles/GLbasic.dir/src/window/Window.cpp.obj
 GLbasic.exe: CMakeFiles/GLbasic.dir/build.make
 GLbasic.exe: C:/Kreeece/Projects/GLbasic/libs/glfw/lib/libglfw3.a
 GLbasic.exe: CMakeFiles/GLbasic.dir/linkLibs.rsp
 GLbasic.exe: CMakeFiles/GLbasic.dir/objects1.rsp
 GLbasic.exe: CMakeFiles/GLbasic.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Kreeece\Projects\GLbasic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable GLbasic.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Kreeece\Projects\GLbasic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable GLbasic.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\GLbasic.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

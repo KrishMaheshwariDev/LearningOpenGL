@@ -24,7 +24,7 @@ class Buffer{
         // Data and Data size for memory allocation
         void SetData(const void* data, size_t size, GLenum usage);
         template<typename T>
-        void Buffer::SetData(const std::vector<T>& data, GLenum usage){
+        void SetData(const std::vector<T>& data, GLenum usage){
             glBufferData(target, data.size() * sizeof(T), data.data(), usage);
         }
 

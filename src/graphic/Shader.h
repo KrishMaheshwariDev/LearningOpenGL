@@ -19,7 +19,7 @@ public:
     Shader(const char* vertexPath, const char* fragPath);
     ~Shader();
 
-    void use();
+    void use() const;
     
     void setFloat(const std::string& name, float value);
     void setVec3(const std::string& name, float x, float y, float z);

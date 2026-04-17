@@ -152,6 +152,78 @@ libs/glad/src/glad.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/libs/glad/src/glad.c.s
 .PHONY : libs/glad/src/glad.c.s
 
+src/graphic/Buffer.obj: src/graphic/Buffer.cpp.obj
+.PHONY : src/graphic/Buffer.obj
+
+# target to build an object file
+src/graphic/Buffer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.obj
+.PHONY : src/graphic/Buffer.cpp.obj
+
+src/graphic/Buffer.i: src/graphic/Buffer.cpp.i
+.PHONY : src/graphic/Buffer.i
+
+# target to preprocess a source file
+src/graphic/Buffer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.i
+.PHONY : src/graphic/Buffer.cpp.i
+
+src/graphic/Buffer.s: src/graphic/Buffer.cpp.s
+.PHONY : src/graphic/Buffer.s
+
+# target to generate assembly for a file
+src/graphic/Buffer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/Buffer.cpp.s
+.PHONY : src/graphic/Buffer.cpp.s
+
+src/graphic/Mesh.obj: src/graphic/Mesh.cpp.obj
+.PHONY : src/graphic/Mesh.obj
+
+# target to build an object file
+src/graphic/Mesh.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.obj
+.PHONY : src/graphic/Mesh.cpp.obj
+
+src/graphic/Mesh.i: src/graphic/Mesh.cpp.i
+.PHONY : src/graphic/Mesh.i
+
+# target to preprocess a source file
+src/graphic/Mesh.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.i
+.PHONY : src/graphic/Mesh.cpp.i
+
+src/graphic/Mesh.s: src/graphic/Mesh.cpp.s
+.PHONY : src/graphic/Mesh.s
+
+# target to generate assembly for a file
+src/graphic/Mesh.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/Mesh.cpp.s
+.PHONY : src/graphic/Mesh.cpp.s
+
+src/graphic/Renderer.obj: src/graphic/Renderer.cpp.obj
+.PHONY : src/graphic/Renderer.obj
+
+# target to build an object file
+src/graphic/Renderer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.obj
+.PHONY : src/graphic/Renderer.cpp.obj
+
+src/graphic/Renderer.i: src/graphic/Renderer.cpp.i
+.PHONY : src/graphic/Renderer.i
+
+# target to preprocess a source file
+src/graphic/Renderer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.i
+.PHONY : src/graphic/Renderer.cpp.i
+
+src/graphic/Renderer.s: src/graphic/Renderer.cpp.s
+.PHONY : src/graphic/Renderer.s
+
+# target to generate assembly for a file
+src/graphic/Renderer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/Renderer.cpp.s
+.PHONY : src/graphic/Renderer.cpp.s
+
 src/graphic/Shader.obj: src/graphic/Shader.cpp.obj
 .PHONY : src/graphic/Shader.obj
 
@@ -175,6 +247,30 @@ src/graphic/Shader.s: src/graphic/Shader.cpp.s
 src/graphic/Shader.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/Shader.cpp.s
 .PHONY : src/graphic/Shader.cpp.s
+
+src/graphic/VertexArray.obj: src/graphic/VertexArray.cpp.obj
+.PHONY : src/graphic/VertexArray.obj
+
+# target to build an object file
+src/graphic/VertexArray.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.obj
+.PHONY : src/graphic/VertexArray.cpp.obj
+
+src/graphic/VertexArray.i: src/graphic/VertexArray.cpp.i
+.PHONY : src/graphic/VertexArray.i
+
+# target to preprocess a source file
+src/graphic/VertexArray.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.i
+.PHONY : src/graphic/VertexArray.cpp.i
+
+src/graphic/VertexArray.s: src/graphic/VertexArray.cpp.s
+.PHONY : src/graphic/VertexArray.s
+
+# target to generate assembly for a file
+src/graphic/VertexArray.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/graphic/VertexArray.cpp.s
+.PHONY : src/graphic/VertexArray.cpp.s
 
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
@@ -200,6 +296,30 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/window/Window.obj: src/window/Window.cpp.obj
+.PHONY : src/window/Window.obj
+
+# target to build an object file
+src/window/Window.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/window/Window.cpp.obj
+.PHONY : src/window/Window.cpp.obj
+
+src/window/Window.i: src/window/Window.cpp.i
+.PHONY : src/window/Window.i
+
+# target to preprocess a source file
+src/window/Window.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/window/Window.cpp.i
+.PHONY : src/window/Window.cpp.i
+
+src/window/Window.s: src/window/Window.cpp.s
+.PHONY : src/window/Window.s
+
+# target to generate assembly for a file
+src/window/Window.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GLbasic.dir\build.make CMakeFiles/GLbasic.dir/src/window/Window.cpp.s
+.PHONY : src/window/Window.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -212,12 +332,27 @@ help:
 	@echo ... libs/glad/src/glad.obj
 	@echo ... libs/glad/src/glad.i
 	@echo ... libs/glad/src/glad.s
+	@echo ... src/graphic/Buffer.obj
+	@echo ... src/graphic/Buffer.i
+	@echo ... src/graphic/Buffer.s
+	@echo ... src/graphic/Mesh.obj
+	@echo ... src/graphic/Mesh.i
+	@echo ... src/graphic/Mesh.s
+	@echo ... src/graphic/Renderer.obj
+	@echo ... src/graphic/Renderer.i
+	@echo ... src/graphic/Renderer.s
 	@echo ... src/graphic/Shader.obj
 	@echo ... src/graphic/Shader.i
 	@echo ... src/graphic/Shader.s
+	@echo ... src/graphic/VertexArray.obj
+	@echo ... src/graphic/VertexArray.i
+	@echo ... src/graphic/VertexArray.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/window/Window.obj
+	@echo ... src/window/Window.i
+	@echo ... src/window/Window.s
 .PHONY : help
 
 

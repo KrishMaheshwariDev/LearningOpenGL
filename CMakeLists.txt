@@ -9,6 +9,11 @@ add_executable(GLbasic
     src/main.cpp
     libs/glad/src/glad.c
     src/graphic/Shader.cpp
+    src/graphic/Buffer.cpp
+    src/graphic/Mesh.cpp
+    src/graphic/Renderer.cpp
+    src/graphic/VertexArray.cpp
+    src/window/Window.cpp
 )
 
 # ---- Include directories ----
