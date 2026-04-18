@@ -15,12 +15,6 @@ unsigned int indices[] = {
     2, 3, 0
 };
 
-void processInput(GLFWwindow* window)
-{
-	if (glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS)
-		glfwSetWindowShouldClose(window, true);
-}
-
 int main() {
 	Window window(800, 600, "Racist");
 	
