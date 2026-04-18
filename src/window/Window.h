@@ -13,6 +13,12 @@ class Window{
         Window(int width, int height, const char* title);
         ~Window();
 
+        Window(const Window&) = delete;
+        Window& operator=(const Window&) = delete;
+
+        Window(Window&& other) noexcept;
+        Window& operator=(Window&& other) noexcept;
+
         bool shouldClose() const;
 
         void swapBuffers() const;
