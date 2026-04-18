@@ -1,1 +1,0 @@
-  -LC:/Kreeece/Projects/GLbasic/libs/glfw/lib  C:/Kreeece/Projects/GLbasic/libs/glfw/lib/libglfw3.a -lopengl32 -lgdi32 -luser32 -lshell32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
