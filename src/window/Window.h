@@ -23,6 +23,7 @@ class Window{
 
         void swapBuffers() const;
         void pollEvents() const;
+        void clearColor() const;
 
         void processInput() const;
 

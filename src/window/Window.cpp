@@ -67,6 +67,10 @@ void Window::swapBuffers() const{
     glfwSwapBuffers(window);
 }
 
+void Window::clearColor() const{
+    glClear(GL_COLOR_BUFFER_BIT);
+}
+
 void Window::pollEvents() const{
     glfwPollEvents();
 }

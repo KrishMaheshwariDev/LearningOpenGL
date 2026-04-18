@@ -19,7 +19,6 @@ int main() {
 	Window window(800, 600, "Racist");
 	
 	Shader shader("C:/Kreeece/Projects/GLbasic/src/shaders/vertex.vert", "C:/Kreeece/Projects/GLbasic/src/shaders/fragment.frag");
-	// buffers
 	Mesh mesh(vertices, sizeof(vertices), 3, 3*sizeof(float), indices, sizeof(indices), 6);
 
 	// main loop (it keeps the window open)
@@ -27,7 +26,7 @@ int main() {
 	{
 		window.processInput();
 
-		glClear(GL_COLOR_BUFFER_BIT);
+		window.clearColor();
 
 		Renderer::Draw(mesh, shader);
 
