@@ -18,7 +18,7 @@ unsigned int indices[] = {
 int main() {
 	Window window(800, 600, "Racist");
 	
-	Shader shader("C:/Kreeece/Projects/GLbasic/src/shaders/vertex.vert", "C:/Kreeece/Projects/GLbasic/src/shaders/fragment.frag");
+	Shader shader("C:/Kreeece/Projects/SOGL/GLbasic/src/shaders/vertex.vert", "C:/Kreeece/Projects/SOGL/GLbasic/src/shaders/fragment.frag");
 	Mesh mesh(vertices, sizeof(vertices), 3, 3*sizeof(float), indices, sizeof(indices), 6);
 
 	// main loop (it keeps the window open)
